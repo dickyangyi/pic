@@ -1,8 +1,6 @@
 #Key
-![KEY](https://github.com/dickyangyi/pic/blob/main/2021-02-02_17-18-54.png)
+![KEY](https://github.com/dickyangyi/pic/blob/main/FD29C6F2-BAE3-42ce-9ED8-2C7C2A9BE2B4.png)
 
 #Running
-![Running](https://github.com/dickyangyi/pic/blob/main/2021-02-02_17-19-05.png)
+![Running](https://github.com/dickyangyi/pic/blob/main/EDF77D79-BEC1-4ae1-863B-2E7BD036F281.png)
 
-#Wait a day, nothing
-![PIC1](https://github.com/dickyangyi/pic/blob/main/2021-02-02_17-20-06.png)
